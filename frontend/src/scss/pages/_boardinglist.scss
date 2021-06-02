@@ -1,0 +1,25 @@
+.boarding{
+  padding-top: 100px;
+  padding-left: 250px;
+  padding-right: 250px;
+
+
+  @media only screen and (max-width: 767px) {
+    height: 130px;
+  }
+
+
+}
+
+.noFlights{
+  color: blueviolet;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 550px;
+  padding-right: 250px;
+  font-size: 25px;
+}
+
+.mr-2{
+  padding-left: 20px;
+}

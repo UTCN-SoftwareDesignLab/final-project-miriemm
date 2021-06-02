@@ -1,0 +1,25 @@
+.paymentForm{
+   padding: 200px;
+  padding-top: 50px;
+
+  @media only screen and (max-width: 767px) {
+    height: 130px;
+  }
+
+  .review{
+    border: 2px solid black ;
+    padding: 100px;
+  }
+
+  .payment{
+    border: 2px solid black ;
+    padding: 100px;
+    padding-top: 20px;
+  }
+
+  .space{
+    padding: 20px;
+  }
+
+
+}
